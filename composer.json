@@ -1,6 +1,6 @@
 {
     "name": "pls/http-server",
-    "description": "PLS HTTP message specification",
+    "description": "PLS HTTP server specification",
     "keywords": [
         "PLS", "HTTP", "server"
     ],
